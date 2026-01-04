@@ -54,7 +54,7 @@
         <liquibase.version>4.6.1</liquibase.version>
         <liquibase-hibernate5.version>4.6.1</liquibase-hibernate5.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
-        <jaxb-runtime.version>2.3.3</jaxb-runtime.version>
+        <jaxb-runtime.version>2.3.9</jaxb-runtime.version>
         <archunit-junit5.version>0.22.0</archunit-junit5.version>
         <mapstruct.version>1.4.2.Final</mapstruct.version>
         <!-- Plugin versions -->
