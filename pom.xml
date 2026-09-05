@@ -82,7 +82,7 @@
         <properties-maven-plugin.version>1.0.0</properties-maven-plugin.version>
         <sonar-maven-plugin.version>3.9.1.2184</sonar-maven-plugin.version>
         <kotlin.version>1.6.0</kotlin.version>
-        <ktlint-maven-plugin.version>1.11.1</ktlint-maven-plugin.version>
+        <ktlint-maven-plugin.version>1.16.0</ktlint-maven-plugin.version>
         <maven-antrun-plugin.version>3.0.0</maven-antrun-plugin.version>
         <detekt.version>1.18.1</detekt.version>
         <detekt.configFile>${project.basedir}/detekt-config.yml</detekt.configFile>
